@@ -6,7 +6,7 @@ const projectInfo = [
 ];
 export default {
   site: {
-    title: "Fem-SSG",
+    title: "Example",
     description: "Static Site Generator in Node.js for EJS Templates",
     basePath: "./",
     ...projectInfo,
